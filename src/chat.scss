@@ -264,12 +264,12 @@
   .search__49676 {
     order: 1;
     margin-left: 4px;
-    .searchBar__97492 {
+    .searchBar_c322aa {
       border: none;
     }
 
-    .search__97492:not(.open__97492) {
-      .searchBar__97492 {
+    .search_c322aa:not(.open_c322aa) {
+      .searchBar_c322aa {
         width: 27px;
         transition: 250ms;
         background-color: transparent;
@@ -284,7 +284,7 @@
         }
       }
 
-      &:hover .searchBar__97492 {
+      &:hover .searchBar_c322aa {
         width: 220px;
         background-color: var(--background-tertiary);
 
@@ -300,10 +300,10 @@
   }
 
   // Search results
-  .searchResultsWrap_a9e706 {
+  .searchResultsWrap_a98f3b {
     background-color: var(--background-secondary);
 
-    .searchResult__02a39 {
+    .searchResult__80bf8 {
       background-color: var(--background-primary);
     }
   }
