@@ -322,35 +322,35 @@
   order: 1;
   margin-left: 4px;
 }
-:root .search__49676 .searchBar__97492 {
+:root .search__49676 .searchBar_c322aa {
   border: none;
 }
-:root .search__49676 .search__97492:not(.open__97492) .searchBar__97492 {
+:root .search__49676 .search_c322aa:not(.open_c322aa) .searchBar_c322aa {
   width: 27px;
   transition: 250ms;
   background-color: transparent;
 }
-:root .search__49676 .search__97492:not(.open__97492) .searchBar__97492 .iconContainer_fea832 {
+:root .search__49676 .search_c322aa:not(.open_c322aa) .searchBar_c322aa .iconContainer_fea832 {
   transform: scale(1.3);
   transition: 250ms;
 }
-:root .search__49676 .search__97492:not(.open__97492) .searchBar__97492 .iconContainer_fea832 .icon_fea832 {
+:root .search__49676 .search_c322aa:not(.open_c322aa) .searchBar_c322aa .iconContainer_fea832 .icon_fea832 {
   color: var(--interactive-normal);
 }
-:root .search__49676 .search__97492:not(.open__97492):hover .searchBar__97492 {
+:root .search__49676 .search_c322aa:not(.open_c322aa):hover .searchBar_c322aa {
   width: 220px;
   background-color: var(--background-tertiary);
 }
-:root .search__49676 .search__97492:not(.open__97492):hover .searchBar__97492 .iconContainer_fea832 {
+:root .search__49676 .search_c322aa:not(.open_c322aa):hover .searchBar_c322aa .iconContainer_fea832 {
   transform: scale(1);
 }
-:root .search__49676 .search__97492:not(.open__97492):hover .searchBar__97492 .iconContainer_fea832 .icon_fea832 {
+:root .search__49676 .search_c322aa:not(.open_c322aa):hover .searchBar_c322aa .iconContainer_fea832 .icon_fea832 {
   color: var(--text-muted);
 }
-:root .searchResultsWrap_a9e706 {
+:root .searchResultsWrap_a98f3b {
   background-color: var(--background-secondary);
 }
-:root .searchResultsWrap_a9e706 .searchResult__02a39 {
+:root .searchResultsWrap_a98f3b .searchResult__80bf8 {
   background-color: var(--background-primary);
 }
 :root .content__908e2 {
@@ -605,17 +605,17 @@
   bottom: 0;
   gap: var(--user-buttons-spacing);
 }
-:root .buttons__37e49 button:not(.buttonChevron__37e49) {
+:root .buttons__37e49 button:not(.buttonChevron__5e764) {
   width: 100%;
   color: var(--user-buttons-color);
   margin: 0;
 }
-:root .buttons__37e49 button.buttonChevron__37e49 {
+:root .buttons__37e49 button.buttonChevron__5e764 {
   color: var(--user-buttons-color);
   position: absolute;
   right: 0;
 }
-:root .buttons__37e49 button.buttonChevron__37e49:hover {
+:root .buttons__37e49 button.buttonChevron__5e764:hover {
   background-color: var(--button-secondary-background-hover);
   color: var(--interactive-hover);
 }
@@ -639,13 +639,13 @@
 :root .cardPrimary__73069,
 :root .vc-addon-card,
 :root .box_f8c98c,
-:root .authedAppV2__50a54,
+:root .authedAppV2__24605,
 :root .connectContainer_c7f964,
 :root .connection_c7f964 {
   background-color: var(--background-secondary);
 }
 :root .connectionHeader_c7f964,
-:root .headerV2__50a54 {
+:root .headerV2__24605 {
   background-color: var(--background-secondary-alt);
 }
 :root .container__3f21e {
