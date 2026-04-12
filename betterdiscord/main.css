@@ -217,7 +217,7 @@
 :root .resizeHandle__01ae2 {
   background-color: var(--background-secondary-alt);
 }
-:root .panels__5e434 .avatarWrapper__37e49 .avatar__37e49 {
+:root .panels__5e434 .avatar__37e49 {
   display: none;
   position: absolute;
   left: calc(100% + 10px);
@@ -229,7 +229,7 @@
 :root .scrollableContainer__74017 {
   background-color: var(--background-secondary);
 }
-:root :has(.form_f75fb0) .avatarWrapper__37e49 .avatar__37e49 {
+:root :has(.form_f75fb0) .avatar__37e49 {
   display: block;
 }
 :root .wrapper_d5f3cd {
