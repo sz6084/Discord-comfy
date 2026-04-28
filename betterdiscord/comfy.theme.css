@@ -1,10 +1,10 @@
 /**
 * @name Comfy Fork
-* @author Nyria#3863, metro420yt
+* @author Nyria#3863, metro420yt, sz6084
 * @description Stay comfy while talking to your friends
 * @version 2.5.0
 * @invite rtBQX5D3bD
-* @website https://github.com/Metro420yt/Discord-comfy
+* @website https://github.com/sz6084/Discord-Theme
 */
 
 @import "https://metro420yt.github.io/Discord-comfy/main.css";
@@ -19,7 +19,7 @@
 */
 
 /* ═══════『 🚫 ・ No scrollbars 』- Comment the line below if you want the scrollbar back */
-@import "https://metro420yt.github.io/Discord-comfy/no-scrollbar.css";
+/* @import "https://metro420yt.github.io/Discord-comfy/no-scrollbar.css"; */
 
 /* ═══════『 🎵 ・ Better SpotifyControls seek bar 』- Comment the line below if you don't want this spotify bar */
 @import "https://metro420yt.github.io/Discord-comfy/better-spotify.css";
@@ -29,10 +29,10 @@
 
 :root {
   /* Main Theme Colors */
-  --comfy-primary: #23283d;
-  --comfy-secondary: #1e2233;
-  --comfy-secondary-alt: #191f2e;
-  --comfy-tertiary: #101320;
+  --comfy-primary: #1a1a1e;
+  --comfy-secondary: #121214;
+  --comfy-secondary-alt: #2c2d32;
+  --comfy-tertiary: #121214;
   --comfy-accent: #6e85d3;
 
 
@@ -43,7 +43,7 @@
 
   /* ⚙️ / 🎤 / 🎧 buttons*/
   --user-buttons-spacing: 8px;
-  --user-buttons-color: #096dc0;
+  --user-buttons-color: #abacb2;
 
   /* Roundness (higher = more rounded corners)
   *   0 = Square
@@ -55,19 +55,19 @@
   --role-radius: 5px;
 
   /* chat colors */
-  --mention-color: #f04747;
-  --unread-color: #7289da;
+  /*--mention-color: #f04747;
+  --unread-color: #7289da; */
 
   /* chatbar */
-  --chat-buttons: #7289da;
-  --colored-emoji: grayscale(0%);
+  /*--chat-buttons: #7289da;
+  --colored-emoji: grayscale(0%);*/
 
   /* status colors */
-  --online: #43b581;
+  /*--online: #43b581;
   --idle: #faa61a;
   --dnd: #f04747;
   --offline: #747f8d;
-  --streaming: #593695;
+  --streaming: #593695;*/
 
   /* activity colors */
   --playing: #7289da;
