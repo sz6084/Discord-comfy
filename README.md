@@ -21,7 +21,7 @@ with `https://metro420yt.github.io/Discord-comfy/main.css`<br>
 <img align="right" src="https://comfy-themes.github.io/Discord/assets/preview.png" alt="Preview" width="40%">
 
 <div align="left">
-  <img align="left" src="https://i.imgur.com/lEPTm0F.png" alt="Logo" width="60" height="70">
+  <img align="center" src="https://i.imgur.com/lEPTm0F.png" alt="Logo" width="60" height="70">
 
   <h3 align="left">Comfy</h3>
   <p align="left">Stay comfy while talking to your friends</p>
@@ -40,13 +40,13 @@ with `https://metro420yt.github.io/Discord-comfy/main.css`<br>
 
 <br/>
 <div align="left">
-    <img align="left" src="https://i.imgur.com/LPH05EO.png" alt="BetterDiscord" width="45" height="45">
+    <img align="center" src="https://i.imgur.com/LPH05EO.png" alt="BetterDiscord" width="45" height="45">
     <b><p align="left">BetterDiscord</b>
     <br/>Open Settings > Themes > Themes folder and copy the file downloaded <a href="https://metro420yt.github.io/Discord-comfy/comfy.theme.css">here</a></p>
 </div>
 
 <div align="left">
-    <img align="left" src="https://i.imgur.com/fXYKU5q.png" alt="Vencord" width="45" height="45">
+    <img align="center" src="https://i.imgur.com/fXYKU5q.png" alt="Vencord" width="45" height="45">
     <b><p align="left">Vencord</b>
     <br/>Copy <code>https://metro420yt.github.io/Discord-comfy/comfy.theme.css</code> into the box in Settings > Themes > Online Themes tab
     <br/>Or upload the file downloaded <a href="https://metro420yt.github.io/Discord-comfy/comfy.theme.css">here</a> by clicking Upload Theme in Settings > Themes > Local Themes tab</p>
@@ -56,13 +56,13 @@ with `https://metro420yt.github.io/Discord-comfy/main.css`<br>
 
 <br/>
 <div align="left">
-    <img align="left" src="https://i.imgur.com/LPH05EO.png" alt="BetterDiscord" width="45" height="45">
+    <img align="center" src="https://i.imgur.com/LPH05EO.png" alt="BetterDiscord" width="45" height="45">
     <b><p align="left">BetterDiscord</b>
     <br/>Open Settings > Themes > Themes folder and open <code>comfy.theme.css</code></p>
 </div>
 
 <div align="left">
-    <img align="left" src="https://i.imgur.com/fXYKU5q.png" alt="Vencord" width="45" height="45">
+    <img align="center" src="https://i.imgur.com/fXYKU5q.png" alt="Vencord" width="45" height="45">
     <b><p align="left">Vencord</b>
     <br/>You need to have the theme in local, not online, then same steps as BetterDiscord</p>
 </div>
